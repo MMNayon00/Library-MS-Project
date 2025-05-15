@@ -57,6 +57,8 @@ Edit
 ├── main.py            # Main application logic and GUI
 ├── custom.py          # UI styling (fonts, colors, etc.)
 ├── credentials.py     # MySQL credentials (user-defined)
+
+
 🛢️ Database Schema
 sql
 Copy
@@ -83,6 +85,9 @@ CREATE TABLE borrow_record (
     issue_date DATE NOT NULL,
     return_date DATE NOT NULL
 );
+
+
 🎓 Project Info
 Developed as part of the Object-Oriented Programming (OOP) Lab Project at Daffodil International University.
+
 
