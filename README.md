@@ -59,7 +59,7 @@ Return Book (Example 1 & 2)
 
 🛢️ Database Schema
 
-![Screenshot_15-5-2025_141657_github com](https://github.com/user-attachments/assets/9e846ee1-a57a-49b4-89cb-b410da6e7670)
+![Screenshot_15-5-2025_142743_chatgpt com](https://github.com/user-attachments/assets/4b468ec3-ce93-4486-b5ff-2df1921a2ee9)
 
 
 🎓 Project Info
