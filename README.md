@@ -1,6 +1,6 @@
 # Library-MS-Project 
 
-:
+
 
 📚 JournalEase - Library Management System
 JournalEase is a modern Library Management System (LMS) designed to streamline book management, track borrowing records, and enhance the experience for both librarians and patrons. Built with Python, Tkinter, and MySQL, it features an intuitive graphical interface and a powerful backend.
@@ -60,6 +60,7 @@ Return Book
 🛢️ Database Schema
 
 ![Screenshot_15-5-2025_142743_chatgpt com](https://github.com/user-attachments/assets/4b468ec3-ce93-4486-b5ff-2df1921a2ee9)
+
 
 
 🎓 Project Info
