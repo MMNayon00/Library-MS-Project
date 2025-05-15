@@ -37,7 +37,7 @@ Add Book
 ![Screenshot_15-5-2025_14142_github com](https://github.com/user-attachments/assets/e00a7e95-c26b-4a21-9b1f-de511e2de561)
 ![Screenshot_15-5-2025_141455_github com](https://github.com/user-attachments/assets/2bd118ea-93d0-446c-9591-030c748162a3)
 
-Search Book (Example 1 & 2)
+Search Book 
 ![Screenshot_15-5-2025_141532_github com](https://github.com/user-attachments/assets/15e46765-dde0-4437-ae23-b24f6eb29b9c)
 ![Screenshot_15-5-2025_141634_github com](https://github.com/user-attachments/assets/c14f1a65-7d36-4f2e-a6d4-d1cbe5d78e31)
 
@@ -45,7 +45,7 @@ Issue Book
 ![S![Screenshot_15-5-2025_141657_github com](https://github.com/user-attachments/assets/c61ed194-7ad0-4aaa-8055-2dc38254f4be)
 creenshot_15-5-2025_141558_github com](https://github.com/user-attachments/assets/890c7ae5-8e1c-479e-b634-c751fc701248)
 
-Return Book (Example 1 & 2)
+Return Book 
 ![Screenshot_15-5-2025_141657_github com](https://github.com/user-attachments/assets/adbe8184-aed1-4353-a735-12a9d51b0c98)
 
 
