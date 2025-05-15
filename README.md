@@ -50,9 +50,7 @@ Return Book (Example 1 & 2)
 
 
 📁 Project Structure
-plaintext
-Copy
-Edit
+
 📁 JournalEase/
 ├── main.py            # Main application logic and GUI
 ├── custom.py          # UI styling (fonts, colors, etc.)
@@ -60,31 +58,8 @@ Edit
 
 
 🛢️ Database Schema
-sql
-Copy
-Edit
-CREATE DATABASE library_management;
 
-CREATE TABLE book_list (
-    book_id VARCHAR(10) NOT NULL,
-    book_name VARCHAR(50) NOT NULL,
-    author VARCHAR(50) NOT NULL,
-    edition VARCHAR(10) NOT NULL,
-    price INT(6) NOT NULL,
-    qty INT(4) NOT NULL,
-    PRIMARY KEY (book_id)
-);
-
-CREATE TABLE borrow_record (
-    book_id VARCHAR(10) NOT NULL,
-    book_name VARCHAR(50) NOT NULL,
-    stu_roll VARCHAR(15) NOT NULL,
-    stu_name VARCHAR(50) NOT NULL,
-    course VARCHAR(10) NOT NULL,
-    subject VARCHAR(30) NOT NULL,
-    issue_date DATE NOT NULL,
-    return_date DATE NOT NULL
-);
+![Screenshot_15-5-2025_141657_github com](https://github.com/user-attachments/assets/9e846ee1-a57a-49b4-89cb-b410da6e7670)
 
 
 🎓 Project Info
